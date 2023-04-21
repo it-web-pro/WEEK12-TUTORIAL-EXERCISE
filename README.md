@@ -477,7 +477,7 @@ c |       axios.get('/user/me').then(res => {
 
 ```javascript
 -------------------------------------------------------------------
-File: frontend/src/App.vue
+File: backend/routes/blog.js
 -------------------------------------------------------------------
   | const express = require("express");
   | const path = require("path");
